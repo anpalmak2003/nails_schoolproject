@@ -1,1 +1,1 @@
-# nails_schoolproject
+# nails
